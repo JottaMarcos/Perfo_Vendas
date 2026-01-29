@@ -4,7 +4,7 @@ Este projeto demonstra o ciclo completo de análise de dados, desde a extração
 [Perfomance de Vendas](Perfo_Corri.png)
 ## 🚀 Visão Geral do Projeto
 O objetivo foi transformar uma base de dados de vendas inconsistente em um painel de indicadores (KPIs) claro, permitindo monitorar o faturamento, comportamento de produtos e saúde financeira da operação.
-[Banco de Dados](SQl_Vendas_Corri.png)
+[Banco de Dados](Print_SQL_Vendas.png)
 
 [Banco de Dados Tratado](SQl_Vendas_Corri.png)
 ### 🛠️ Etapa 1: ETL e Tratamento com SQL
